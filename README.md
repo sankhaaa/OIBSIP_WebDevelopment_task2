@@ -89,3 +89,5 @@ Project Overview
         Interactive Navigation: Hamburger menu with animations.
         
         Highlight Sections: Projects & certifications are clear and clickable
+
+Video Links: https://youtu.be/AfxUToRT3c4?si=4KVv4jWKvxq2a5iM
